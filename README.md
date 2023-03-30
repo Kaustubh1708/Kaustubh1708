@@ -1,6 +1,6 @@
-<h1 align="center">Hey There, Welcome to our profile👋, I'm Kaustubh Mahamuni</h1>
+<h1 align="center">Hi 👋, I'm Kaustubh Mahamuni</h1>
 <h3 align="center">A Passionate Full Stack Web developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://www.itprotoday.com/sites/itprotoday.com/files/styles/article_featured_retina/public/programming%20evolution.jpg?itok=WTj9-yNz">
+<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.wired.com%2Fstory%2Fhow-to-set-up-workspace%2F&psig=AOvVaw0IWniHUTmm9ZOo99ElDoPb&ust=1680281851926000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCOjXjOqPhP4CFQAAAAAdAAAAABAE">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Kaustubh1708&label=Profile%20views&color=0e75b6&style=flat" alt="Kaustubh1708" /> </p>
 
