@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kaustubh Mahamuni</h1>
 <h3 align="center">A Passionate Full Stack Web developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.wired.com%2Fstory%2Fhow-to-set-up-workspace%2F&psig=AOvVaw0IWniHUTmm9ZOo99ElDoPb&ust=1680281851926000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCOjXjOqPhP4CFQAAAAAdAAAAABAE">
+<img align="right" alt="Coding" width="400" src="https://www.itprotoday.com/sites/itprotoday.com/files/styles/article_featured_retina/public/programming%20evolution.jpg?itok=WTj9-yNz">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Kaustubh1708&label=Profile%20views&color=0e75b6&style=flat" alt="Kaustubh1708" /> </p>
 
@@ -16,7 +16,7 @@
 <p align="left">
 <a href="https://twitter.com/@kaustubh0178" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Kaustubh1708" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/kaustubh-mahamuni-6bb457241/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Kaustubh_Mahamuni" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/kaustubhmah9pb5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="Kaustubh1708" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/kaustubhmah9pb5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ghadgeankita19" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
